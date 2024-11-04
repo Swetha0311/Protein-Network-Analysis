@@ -1,8 +1,4 @@
-# Assignment 5
-
 **Author**: Swetha Yadavalli
-
-**Date**: 04/27/2024
 
 **Programming Language**: Python
 
